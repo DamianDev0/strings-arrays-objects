@@ -101,7 +101,6 @@ function update(){
 }
 
 
-
 let init = true;
 
 while (init) {
